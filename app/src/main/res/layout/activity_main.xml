@@ -30,4 +30,14 @@
         android:text="Swipe in KOTLIN"
         android:layout_height="wrap_content"/>
 
+    <com.google.android.material.button.MaterialButton
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/btn_kotlin_1"
+        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:text="Swipe in KOTLIN 1"
+        android:layout_height="wrap_content"/>
+
 </LinearLayout>
